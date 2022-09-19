@@ -3147,6 +3147,14 @@ input, select, textarea {
 
 			}
 
+			.wrapper.style3{
+				background: url(images/jadejones.jpg) no-repeat center center fixed;
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-size: cover;
+			}
+
 		.wrapper.style4 {
 			background-color: transparent;
 		}
@@ -3691,6 +3699,7 @@ input, select, textarea {
 				position: absolute;
 				width: 1.5em;
 			}
+
 
 		#banner:after {
 			pointer-events: none;
